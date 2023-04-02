@@ -48,6 +48,18 @@ const CARDS = [
     color: "#1DA1F2",
   },
   {
+    name: "Outlook",
+    icon: "ri-mail-open-fill",
+    link: "https://outlook.office.com/mail/",
+    color: "#62aaff"
+  },
+  {
+    name: "Twitch",
+    icon: "ri-twitch-fill",
+    link: "https://www.twitch.tv",
+    color: "#9146FF"
+  },
+  {
     name: "Moodle",
     icon: "ri-graduation-cap-fill",
     link: "https://moodle.inholland.nl/",
@@ -57,27 +69,6 @@ const CARDS = [
     name: "MyTimetables",
     icon: "ri-table-fill",
     link: "https://mytimetables.inholland.nl/schedule",
-  },
-  {
-    name: "Figma",
-    icon: "ri-pen-nib-fill",
-    link: "https://www.figma.com/",
-  },
-  {
-    name: "CodeSandbox",
-    icon: "ri-braces-fill",
-    link: "https://codesandbox.io/dashboard/",
-  },
-  {
-    name: "LinkedIn",
-    icon: "ri-linkedin-fill",
-    link: "https://www.linkedin.com/",
-  },
-  {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
-    color: "#ea4c89",
   },
 ];
 
