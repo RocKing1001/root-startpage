@@ -36,10 +36,27 @@ const CARDS = [
     link: "https://mail.google.com/",
   },
   {
+    name: "YouTube",
+    icon: "ri-youtube-fill",
+    link: "https://www.youtube.com/",
+    color: "#FF0000",
+  },
+  {
     name: "Twitter",
     icon: "ri-twitter-fill",
     link: "https://twitter.com",
     color: "#1DA1F2",
+  },
+  {
+    name: "Moodle",
+    icon: "ri-graduation-cap-fill",
+    link: "https://moodle.inholland.nl/",
+    color: "#e3027f"
+  },
+  {
+    name: "MyTimetables",
+    icon: "ri-table-fill",
+    link: "https://mytimetables.inholland.nl/schedule",
   },
   {
     name: "Figma",
@@ -50,12 +67,6 @@ const CARDS = [
     name: "CodeSandbox",
     icon: "ri-braces-fill",
     link: "https://codesandbox.io/dashboard/",
-  },
-  {
-    name: "YouTube",
-    icon: "ri-youtube-fill",
-    link: "https://www.youtube.com/",
-    color: "#FF0000",
   },
   {
     name: "LinkedIn",
