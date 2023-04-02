@@ -8,6 +8,17 @@ const NAME = "thepiguy";
 
 const CARDS = [
   {
+    name: "Github",
+    icon: "ri-github-fill",
+    link: "https://github.com/",
+  },
+  {
+    name: "ChatGPT",
+    icon: "ri-chat-1-fill",
+    link: "https://chat.openai.com/chat",
+    color: "#75a99c",
+  },
+  {
     name: "Discord",
     icon: "ri-discord-fill",
     link: "https://discord.com/app",
@@ -16,18 +27,13 @@ const CARDS = [
   {
     name: "Reddit",
     icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/",
+    link: "https://libreddit.privacy.com.de/",
     color: "#FF4500",
   },
   {
-    name: "Figma",
-    icon: "ri-pen-nib-fill",
-    link: "https://www.figma.com/",
-  },
-  {
-    name: "Github",
-    icon: "ri-github-fill",
-    link: "https://github.com/",
+    name: "Gmail",
+    icon: "ri-google-fill",
+    link: "https://mail.google.com/",
   },
   {
     name: "Twitter",
@@ -36,15 +42,9 @@ const CARDS = [
     color: "#1DA1F2",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
-    color: "#ea4c89",
-  },
-  {
-    name: "Hashnode",
-    icon: "ri-newspaper-line",
-    link: "https://hashnode.com/",
+    name: "Figma",
+    icon: "ri-pen-nib-fill",
+    link: "https://www.figma.com/",
   },
   {
     name: "CodeSandbox",
@@ -63,9 +63,10 @@ const CARDS = [
     link: "https://www.linkedin.com/",
   },
   {
-    name: "Gmail",
-    icon: "ri-google-fill",
-    link: "https://mail.google.com/",
+    name: "Dribbble",
+    icon: "ri-dribbble-fill",
+    link: "https://dribbble.com/",
+    color: "#ea4c89",
   },
 ];
 
